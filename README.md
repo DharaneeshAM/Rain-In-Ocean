@@ -1,12 +1,5 @@
 # DHARANEESH
-# _Monkey Effect_
-
-<table>
-  <tr>
-    <td valign="top"><img src="./Screenshot 2023-07-20 223510.png"/></td>
-    <td valign="top"><img src="./Screenshot 2023-07-20 224005.png"/></td>
-  </tr>
-</table>
+# _Rain In Ocean_
 
 <div style="text-align:center"><img src="./ezgif.com-video-to-gif.gif" /></div>
 
